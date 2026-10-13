@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+ledger.db
+ledger.db-shm
+ledger.db-wal
+.DS_Store
